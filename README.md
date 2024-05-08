@@ -14,5 +14,5 @@ Note: The real test set and predictions were withheld by my professor, which is 
 
 Further information about the background, aims and results can be found in the powerpoint presentation.
 
-Methods Graphical Abstract (Completed on the 'trainval' dataset):
+Methods Graphical Abstract (All completed on the `training_validation.csv` dataset):
 ![MethodsAbstract](https://github.com/hanifahuq/predicting-diagnosis/assets/109694690/08c7203f-2bb6-40f2-999b-e106096e9e6a)
