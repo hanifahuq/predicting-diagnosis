@@ -7,7 +7,7 @@ Files:
 - `test.csv` : randomised data to ensure that my final pipeline runs on the same formatted data
 - `predictions.csv` : randomised data to ensure that my final pipeline script produces the same format
 - `K20002990_InvestigativeScript.ipynb` : Investigative script to find the best-performing models and combined pipeline.
-- `K20002990_FinalPipeline.ipynb` : Final pipeline script used to train on `training_validation.csv` and predict age on test MRI data (using real data, witheld from the file)
+- `K20002990_FinalPipeline.ipynb` : Final pipeline script used to train on `training_validation.csv` and predict age on test MRI data (using real data, witheld from repository)
 - `MLN Powerpoint.pptx` : Powerpoint encompassing the background, aims, results, and conclusions
 
 Note: The real test set and predictions were withheld by my professor, which is why I used the 'trainval' data for all investigations, including testing.
