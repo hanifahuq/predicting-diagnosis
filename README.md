@@ -1,6 +1,6 @@
-# predicting-diagnosis
+# Predicting Diagnosis
 
-This project aims to find the best performing model to predict diagnosis based on MRI features of brain regions. 
+This project aims to find the best performing model to predict diagnosis (Alzheimer's Disease/ Mild Cognitive Impairment/ Control) based on MRI features of brain regions. 
 
 Further information about the background, aims and results can be found in the powerpoint presentation.
 
