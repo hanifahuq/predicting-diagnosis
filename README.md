@@ -2,7 +2,14 @@
 
 This project aims to find the best-performing models to predict diagnosis (Alzheimer's Disease/ Mild Cognitive Impairment/ Control) and age based on MRI features of brain regions. 
 
-Investigative script uses trainval data to find the best-performing models and combined pipeline that should be used on hidden test set.
+Files:
+- `training_validation.csv` : Used to find the best-performing models and combined pipeline. Also used as training data for final pipeline script
+- `test.csv` : randomised data to ensure that my final pipeline runs on the same formatted data
+- `predictions.csv` : randomised data to ensure that my final pipeline script produces the same format
+- `K20002990_InvestigativeScript.ipynb` : Investigative script to find the best-performing models and combined pipeline.
+- `K20002990_FinalPipeline.ipynb` : Final pipeline script used to train on `training_validation.csv` and predict age on test MRI data (using real data, witheld from the file)
+
+Investigative script uses trainval data to 
 Final pipeline code is the clean code with the final pipeline that is trained on the trainval data and attempts to predict on the test MRI features data to find the accuracy to produce predictions.
 
 Note: The 'test' and 'predictions' data is randomised data to ensure that my final pipeline runs on the same formatted data. The real test set and predictions were withheld, which is why I used the 'trainval' data for all investigations, including testing.
