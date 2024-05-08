@@ -1,4 +1,4 @@
-# Predicting Diagnosis
+# Predicting Diagnosis and Age
 
 This project aims to find the best-performing models to predict diagnosis (Alzheimer's Disease/ Mild Cognitive Impairment/ Control) and age based on MRI features of brain regions. 
 
